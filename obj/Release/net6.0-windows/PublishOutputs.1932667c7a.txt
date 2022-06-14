@@ -1,0 +1,13 @@
+D:\Project\Desktop\ToDoList\bin\publish\ToDoList.exe
+D:\Project\Desktop\ToDoList\bin\publish\ToDoList.dll
+D:\Project\Desktop\ToDoList\bin\publish\ToDoList.deps.json
+D:\Project\Desktop\ToDoList\bin\publish\ToDoList.runtimeconfig.json
+D:\Project\Desktop\ToDoList\bin\publish\ToDoList.pdb
+D:\Project\Desktop\ToDoList\bin\publish\System.Data.SqlClient.dll
+D:\Project\Desktop\ToDoList\bin\publish\System.Speech.dll
+D:\Project\Desktop\ToDoList\bin\publish\runtimes\win-arm64\native\sni.dll
+D:\Project\Desktop\ToDoList\bin\publish\runtimes\win-x64\native\sni.dll
+D:\Project\Desktop\ToDoList\bin\publish\runtimes\win-x86\native\sni.dll
+D:\Project\Desktop\ToDoList\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Desktop\ToDoList\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Desktop\ToDoList\bin\publish\runtimes\win\lib\net6.0\System.Speech.dll
